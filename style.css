@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: brown;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+}
+
+div{
+    margin:auto
+}
+
+li, a{
+    font-size: 28px;   
+    color: brown;
+    
+}
+.recipes{
+    width:fit-content;
+    margin: auto;
+    
+}
